@@ -1,0 +1,18 @@
+/Users/paulscoder/personalrepos/docblockfail/ext/docblockfail/docblocktest.zep.c:20:4: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+ * DocBlockFail
+   ^
+/Users/paulscoder/personalrepos/docblockfail/ext/docblockfail/docblocktest.zep.c:20:16: error: expected ';' after top level declarator
+ * DocBlockFail
+               ^
+               ;
+1 warning and 1 error generated.
+make: *** [docblockfail/docblocktest.lo] Error 1
+/Users/paulscoder/personalrepos/docblockfail/ext/docblockfail/docblocktest.zep.c:20:4: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+ * DocBlockFail
+   ^
+/Users/paulscoder/personalrepos/docblockfail/ext/docblockfail/docblocktest.zep.c:20:16: error: expected ';' after top level declarator
+ * DocBlockFail
+               ^
+               ;
+1 warning and 1 error generated.
+make: *** [docblockfail/docblocktest.lo] Error 1
